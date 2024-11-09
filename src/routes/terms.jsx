@@ -28,7 +28,7 @@ const Terms = function () {
                     1. Acceptance of Terms
                 </h2>
                 <p>
-                    By using the nano. service, you agree to these Terms of
+                    By using the lithe. service, you agree to these Terms of
                     Service. If you do not agree, do not use our service.
                 </p>
             </section>

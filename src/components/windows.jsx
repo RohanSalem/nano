@@ -23,7 +23,7 @@ const Windows = function () {
                 class:hidden={use(this.currentHasURL)}
             >
                 <h1 class="text-center text-Blue text-4xl font-bold select-none">
-                    nano.
+                    lithe.
                 </h1>
                 <p class="text-center mt-1 select-none">
                     Browse the internet securely and privately.
